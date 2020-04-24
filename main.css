@@ -15,9 +15,11 @@ body{
     display: block;
     width: 800px;
     height: 500px;
+    padding-right: 10px;
 }
 #img-caption{
     text-align: center;
+    font-weight: normal;
 }
 #tribute-info{
     text-align: justify;
